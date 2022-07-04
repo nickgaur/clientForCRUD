@@ -3,3 +3,6 @@ input[type="submit"] {
     width: 43%;
 }
 
+button {
+    margin-left: 10px;
+}
