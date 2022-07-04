@@ -1,0 +1,24 @@
+
+.container {
+    text-align: center;
+    margin-top: 150px;
+}
+.card{
+    text-align: center;
+    background-color: rgba(239, 233, 233, 0.826);
+    width: 30%;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    margin: auto;
+}
